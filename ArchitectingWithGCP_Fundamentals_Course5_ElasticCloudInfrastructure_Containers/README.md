@@ -1,0 +1,2 @@
+# ArchitectingWithGCP_Fundamentals_Course5_ElasticCloudInfrastructure_Containers
+Kubernetes Load Balancing.  Create a Kubernetes cluster using Google Kubernetes Engine with the built-in network load balancer.  Deploy nginx into the cluster and verify that the application is working.  Undeploy the application and then redeploy the cluster using Ingress to connect it to a Google Compute Engine HTTPS load balancer.  Redeploy and test.  
